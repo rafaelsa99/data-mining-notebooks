@@ -1,4 +1,4 @@
-# Data_Exploration_Notebooks
+# Data Exploration Notebooks
 Notebooks of the Data Mining course of the Masters in Informatics Engineering of the University of Aveiro.
 
 The Jupyter notebook is an interactive environment for writing and running code.
@@ -28,6 +28,6 @@ Linear Classifiers are described by discriminant functions:
 g(x) = wTx + b
 ```
 
-The parameters are (w; b). There are dierent algorithms that learn the parameters given the data. For each the hyper-parameters are diferent.
+The parameters are (w; b). There are diferent algorithms that learn the parameters given the data. For each the hyper-parameters are diferent.
 
-K- Nearest Neighbor is an instance based classifier. Hyper-parameters are the similarity metric and K (number of neighbors)
+K- Nearest Neighbor is an instance based classifier. Hyper-parameters are the similarity metric and K (number of neighbors).
